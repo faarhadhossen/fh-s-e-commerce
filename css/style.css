@@ -1,0 +1,24 @@
+.container{
+    margin-top: 50px;
+}
+
+.navbar-nav{
+    margin-left: 300px;
+}
+
+.carousel-bg{
+    background-color: #feeae9;
+}
+
+.carousel-item{
+    padding: 10px 40px;
+}
+
+.buy-btn{
+    background-color: #ff136f;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 5px;
+}
